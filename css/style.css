@@ -691,6 +691,10 @@ iframe{
   color: white !important;
 }
 
+.ms-3 {
+    margin-left: 1rem!important;
+}
+
 @media (max-width: 992px){
     .navbar-collapse{
         background: #131212;
